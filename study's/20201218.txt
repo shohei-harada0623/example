@@ -11,7 +11,7 @@ git push
             ->ssh鍵認証の設定が必要
             ->すでに鍵を作成していたため、別名で作成
             ->Defaultでは参照できないため、ssh/configに設定を追加
-　　　　　　###.ssh/config
+            ###.ssh/config
                 Host github github.com
 　　　　　　　  HostName github.com
 　　　　　　　  IdentityFile ~/.ssh/id_git_rsa
