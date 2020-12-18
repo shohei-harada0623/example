@@ -21,14 +21,14 @@ Jump to:
 -  `jump2 <#jump2>`__
 -  `jump3 <#jump3>`__
 
-jump1
+jump1(ふと文字アンダーバー)
 ---------------
 
 This README is for the AWS CLI version 1. If you are looking for
 information about the AWS CLI version 2, please visit the `v2
 branch <https://github.com/aws/aws-cli/tree/v2>`__.
 
-Requirements
+ふと文字
 ~~~~~~~~~~~~
 
 The aws-cli package works on Python versions:
@@ -40,14 +40,7 @@ The aws-cli package works on Python versions:
 *ななめにかく*
 
 *We recommend that all customers regularly monitor the* `リンク
-website <https://リンクのURLかく>`__ *
-
-Maintenance and Support for CLI Major Versions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-The AWS CLI version 1 was made generally available on 09/02/2013 and is currently in the full support phase of the availability life cycle.
-
-For information about maintenance and support for SDK major versions and their underlying dependencies, see the `Maintenance Policy <https://docs.aws.amazon.com/credref/latest/refdocs/maint-policy.html>`__ section in the *AWS SDKs and Tools Shared Configuration and Credentials Reference Guide*.
+website <https://リンクのURLかく>`__
 
 Installation
 ~~~~~~~~~~~~
@@ -57,64 +50,11 @@ The safest way to install the AWS CLI is to use
 
 ::
 
-   $ python -m pip install awscli
+   コードがかける
 
-or, if you are not installing in a ``virtualenv``, to install globally:
-
-::
-
-   $ sudo python -m pip install awscli
-
-or for your user:
-
-::
-
-   $ python -m pip install --user awscli
-
-If you have the aws-cli package installed and want to upgrade to the
-latest version you can run:
-
-::
-
-   $ python -m pip install --upgrade awscli
-
-This will install the aws-cli package as well as all dependencies.
+``くくれる``
 
 .. note::
-   On macOS, if you see an error regarding the version of ``six`` that
-   came with ``distutils`` in El Capitan, use the ``--ignore-installed``
-   option:
-
-::
-
-   $ sudo python -m pip install awscli --ignore-installed six
-
-On Linux and Mac OS, the AWS CLI can be installed using a `bundled
-installer <https://docs.aws.amazon.com/cli/latest/userguide/install-linux.html#install-linux-bundled>`__.
-The AWS CLI can also be installed on Windows via an `MSI
-Installer <https://docs.aws.amazon.com/cli/latest/userguide/install-windows.html#msi-on-windows>`__.
-
-If you want to run the ``develop`` branch of the AWS CLI, see the
-`Development Version <CONTRIBUTING.md#cli-development-version>`__ section of
-the contributing guide.
-
-See the
-`installation <https://docs.aws.amazon.com/cli/latest/userguide/install-cliv1.html>`__
-section of the AWS CLI User Guide for more information.
-
-Configuration
-~~~~~~~~~~~~~
-
-Before using the AWS CLI, you need to configure your AWS credentials.
-You can do this in several ways:
-
--  Configuration command
--  Environment variables
--  Shared credentials file
--  Config file
--  IAM Role
-
-The quickest way to get started is to run the ``aws configure`` command:
 
 ::
 
