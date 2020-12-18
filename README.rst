@@ -17,9 +17,9 @@ Services.
 
 Jump to:
 
--  `Getting jump1 <#jump1>`__
--  `Getting jump2 <#jump2>`__
--  `More jump3 <#jump3>`__
+-  `jump1 <#jump1>`__
+-  `jump2 <#jump2>`__
+-  `jump3 <#jump3>`__
 
 jump1
 ---------------
@@ -269,7 +269,7 @@ configure it manually. To learn more, read the `AWS CLI Command
 completion
 topic <https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-completion.html>`__.
 
-Getting Help
+jump2
 ------------
 
 The best way to interact with our team is through GitHub. You can `open
@@ -294,7 +294,7 @@ The AWS CLI implements AWS service APIs. For general issues regarding
 the services or their limitations, you may find the `Amazon Web Services
 Discussion Forums <https://forums.aws.amazon.com/>`__ helpful.
 
-More Resources
+jump3
 --------------
 
 -  `Changelog <https://github.com/aws/aws-cli/blob/develop/CHANGELOG.rst>`__
