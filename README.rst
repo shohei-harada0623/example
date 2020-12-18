@@ -17,11 +17,11 @@ Services.
 
 Jump to:
 
--  `Getting Started <#getting-started>`__
--  `Getting Help <#getting-help>`__
--  `More Resources <#more-resources>`__
+-  `Getting jump1 <#jump1>`__
+-  `Getting jump2 <#jump2>`__
+-  `More jump3 <#jump3>`__
 
-Getting Started
+jump1
 ---------------
 
 This README is for the AWS CLI version 1. If you are looking for
