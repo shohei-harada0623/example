@@ -16,3 +16,5 @@ git push
 　　　　　　　  HostName github.com
 　　　　　　　  IdentityFile ~/.ssh/id_git_rsa
 　　　　　　　  User git
+参考
+https://qiita.com/Futo_Horio/items/4d669f695680bc13d5fa
