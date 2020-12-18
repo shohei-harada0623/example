@@ -54,8 +54,6 @@ Installation
 
 To use environment variables, do the following:
 
-::
-
 jump2
 ------------
 
