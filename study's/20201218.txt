@@ -12,9 +12,9 @@ git push
             ->すでに鍵を作成していたため、別名で作成
             ->Defaultでは参照できないため、ssh/configに設定を追加
             ###.ssh/config
-                Host github github.com
-　　　　　　　  HostName github.com
-　　　　　　　  IdentityFile ~/.ssh/id_git_rsa
-　　　　　　　  User git
+            Host github github.com
+            HostName github.com
+            IdentityFile ~/.ssh/id_git_rsa
+            User git
 参考
 https://qiita.com/Futo_Horio/items/4d669f695680bc13d5fa
