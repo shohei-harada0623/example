@@ -3,6 +3,7 @@
 
 
 .. image:: https://travis-ci.org/aws/aws-cli.svg?branch=develop
+
    :target: https://travis-ci.org/aws/aws-cli
    :alt: Build Status
 
