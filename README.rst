@@ -33,26 +33,14 @@ Requirements
 
 The aws-cli package works on Python versions:
 
--  2.7.x and greater
--  3.4.x and greater
--  3.5.x and greater
--  3.6.x and greater
--  3.7.x and greater
--  3.8.x and greater
+-  ポチ
 
-On 10/09/2019 support for Python 2.6 and Python 3.3 was deprecated and
-support was dropped on 01/10/2020. To avoid disruption, customers using
-the AWS CLI on Python 2.6 or 3.3 will need to upgrade their version of
-Python or pin the version of the AWS CLI in use prior to 01/10/2020. For
-more information, see this `blog
-post <https://aws.amazon.com/blogs/developer/deprecation-of-python-2-6-and-python-3-3-in-botocore-boto3-and-the-aws-cli/>`__.
+なんか説明とかかく
 
-*Attention!*
+*ななめにかく*
 
-*We recommend that all customers regularly monitor the* `Amazon Web
-Services Security Bulletins
-website <https://aws.amazon.com/security/security-bulletins>`__ *for
-any important security bulletins related to aws-cli.*
+*We recommend that all customers regularly monitor the* `リンク
+website <https://リンクのURLかく>`__ *
 
 Maintenance and Support for CLI Major Versions
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
